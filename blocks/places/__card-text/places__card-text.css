@@ -1,0 +1,12 @@
+.places__card-text {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #fff;
+    padding-bottom: 26px;
+    margin: 0;
+}
+
+.places__card-text:last-child {
+    padding-bottom: 0;
+}

@@ -1,0 +1,7 @@
+.places__link-container {
+    margin: 0;
+    max-width: 456px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+}

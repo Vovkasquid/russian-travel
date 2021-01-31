@@ -1,0 +1,4 @@
+.places__card-text-container {
+    display: flex;
+    flex-direction: column;
+}
