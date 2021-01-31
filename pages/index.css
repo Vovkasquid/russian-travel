@@ -18,9 +18,15 @@
 @import url(../blocks/photo-galery/photo-galery.css);
 @import url(../blocks/photo-galery/__item/photo-galery__item.css);
 @import url(../blocks/places/places.css);
-@import url(../blocks/places/__title/places__title.css);
-@import url(../blocks/places/__subtitle/places__subtitle.css);
-@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__card-image/places__card-image.css);
+@import url(../blocks/places/__card-text-container/places__card-text-container.css);
+@import url(../blocks/places/__card-text/places__card-text.css);
+@import url(../blocks/places/__card-title/places__card-title.css);
+@import url(../blocks/places/__card/places__card.css);
+@import url(../blocks/places/__cards/places__cards.css);
+@import url(../blocks/places/__link-container/places__link-container.css);
+@import url(../blocks/places/__link-url/places__link-url.css);
+@import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/page-picture/page-picture.css);
 /* Возможно придётся убрать page-picture__image. Пока ещё непонятно как реализую */
 @import url(../blocks/page-picture/__image/page-picture__image.css);
