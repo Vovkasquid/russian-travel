@@ -1,0 +1,9 @@
+.page-subtitle__subtext {
+    list-style: none;
+    color: #fff;
+    margin:0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: bold;
+}
