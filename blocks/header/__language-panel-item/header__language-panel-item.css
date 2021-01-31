@@ -5,8 +5,17 @@
     line-height: 1.2;
     text-decoration: none;
     margin: 0;
+    text-align: center;
 }
 
-.header__language-panel-item:first-child {
-    padding-right: 18px;
+.header__language-panel-item:last-child {
+    padding-left: 18px;
+}
+
+@media screen and (max-width: 320px) {
+    .header__language-panel-item {
+        font-size: 18px;
+        line-height: 20px;
+        padding-top: 14px;
+    }
 }
