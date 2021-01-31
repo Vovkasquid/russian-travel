@@ -1,0 +1,5 @@
+.header__language-panel-item_state_active {
+    text-decoration: solid;
+    text-decoration-color: #fff;
+    text-decoration-line: underline;
+}
