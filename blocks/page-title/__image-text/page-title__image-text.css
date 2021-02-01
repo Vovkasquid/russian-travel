@@ -9,3 +9,15 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+    .page-tittle__image-text {
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .page-tittle__image-text {
+        padding-left: 16px;
+    }
+}

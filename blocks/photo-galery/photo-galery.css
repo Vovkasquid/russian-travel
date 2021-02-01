@@ -20,7 +20,7 @@
     .photo-galery {
         gap: 14px;
         grid-template-columns: repeat(auto-fit, minmax(352px, max-content));
-        padding: 0 0 88px 0;
+        padding: 0 24px 88px 24px;
     }
 }
 
@@ -28,6 +28,6 @@
     .photo-galery {
         gap: 12px;
         grid-template-columns: repeat(auto-fit, minmax(288px, max-content));
-        padding: 0 0 64px 0;
+        padding: 0 16px 64px 16px;
     }
 }
