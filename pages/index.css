@@ -33,5 +33,8 @@
 @import url(../blocks/page-picture/__subtitle/page-picture__subtitle.css);
 @import url(../blocks/page-picture/__title/page-picture__title.css);
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__navigation-item/footer__navigation-item.css);
+@import url(../blocks/footer/__navigation-link/footer__navigation-link.css);
+@import url(../blocks/footer/__navigation-items/footer__navigation-items.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
