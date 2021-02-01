@@ -9,6 +9,13 @@
     font-style: normal;
 }
 
+@media screen and (max-width: 1024px) {
+    .page {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .page {
         padding: 28px 0px 24px 0px;

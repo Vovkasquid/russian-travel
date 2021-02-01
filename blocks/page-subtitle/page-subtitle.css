@@ -8,6 +8,13 @@
 
 @media screen and (max-width: 1024px) {
     .page-subtitle {
-        padding: 0 238px 92px 0;
+        padding: 0 286px 92px 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page-subtitle {
+        padding-right: 0px;
+        padding-left: 0px;
     }
 }
