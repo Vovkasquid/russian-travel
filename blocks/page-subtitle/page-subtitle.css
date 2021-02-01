@@ -1,6 +1,13 @@
 .page-subtitle {
     margin: 0;
     max-width: 690px;
-    height: 429px;
+    min-width: 288px;
+    max-height: 429px;
     padding: 0 394px 92px 100px;
+}
+
+@media screen and (max-width: 1024px) {
+    .page-subtitle {
+        padding: 0 238px 92px 0;
+    }
 }
