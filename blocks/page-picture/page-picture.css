@@ -1,0 +1,7 @@
+.page-picture {
+    width: 100%;
+    height: 740px;
+    background-image: url('../../images/page-picture.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
