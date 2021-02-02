@@ -2,7 +2,6 @@
     margin: 0;
     display: grid;
     padding-bottom: 80px;
-    display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 48px 40px;
 }
