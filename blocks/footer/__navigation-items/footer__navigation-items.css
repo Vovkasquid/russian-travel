@@ -6,3 +6,10 @@
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__navigation-items {
+        flex-direction: column;
+        align-items: stretch;
+    }
+}

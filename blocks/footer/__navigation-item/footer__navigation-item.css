@@ -5,3 +5,13 @@
 .footer__navigation-item:last-child {
     padding-right: 0;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__navigation-item {
+        padding: 0px 0px 32px 0px;
+    }
+
+    .footer__navigation-item:last-child {
+        padding: 0;
+    }
+}
