@@ -7,4 +7,4 @@
 1. Добавить интерактивности сайту
 
 ## Ссылка на GitHub pages
-ссылко
+[Задеплоенный проект](https://vovkasquid.github.io/russian-travel/)
