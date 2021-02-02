@@ -28,7 +28,6 @@
 @import url(../blocks/places/__link-url/places__link-url.css);
 @import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/page-picture/page-picture.css);
-/* Возможно придётся убрать page-picture__image. Пока ещё непонятно как реализую */
 @import url(../blocks/page-picture/__link/page-picture__link.css);
 @import url(../blocks/page-picture/__subtitle/page-picture__subtitle.css);
 @import url(../blocks/page-picture/__title/page-picture__title.css);
