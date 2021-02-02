@@ -6,6 +6,7 @@
     text-decoration: none;
     margin: 0;
     text-align: center;
+    transition: opacity 0.3s linear;
 }
 
 .header__language-panel-item:last-child {
@@ -18,4 +19,8 @@
         line-height: 20px;
         padding-top: 14px;
     }
+}
+
+.header__language-panel-item:hover {
+    opacity: 0.8;
 }
