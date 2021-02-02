@@ -15,9 +15,9 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .page-title__subtitle {
-        padding: 16px 0 40px 0;
+        padding: 16px 16px 40px 16px;
         font-size: 16px;
         line-height: 20px;
     }

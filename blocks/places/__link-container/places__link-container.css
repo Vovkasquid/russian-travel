@@ -6,7 +6,7 @@
     justify-content: flex-start;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .places__link-container {
         padding: 0 16px 0px 16px;
     }

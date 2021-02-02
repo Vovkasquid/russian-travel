@@ -24,10 +24,10 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .photo-galery {
         gap: 12px;
-        grid-template-columns: repeat(auto-fit, minmax(288px, max-content));
+        grid-template-columns: 1fr;
         padding: 0 16px 64px 16px;
     }
 }

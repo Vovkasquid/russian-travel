@@ -2,6 +2,7 @@
     margin:0;
     width: 100%;
     height: 213px;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 1024px) {
@@ -16,7 +17,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .photo-galery__item {
         height: 216px;
     }

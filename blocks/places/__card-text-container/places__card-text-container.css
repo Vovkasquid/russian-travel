@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .places__card-text-container {
         padding: 0 16px 0px 16px;
     }
