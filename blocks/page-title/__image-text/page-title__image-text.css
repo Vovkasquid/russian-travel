@@ -11,13 +11,13 @@
 }
 
 @media screen and (max-width: 768px) {
-    .page-tittle__image-text {
+    .page-title__image-text {
         padding-left: 24px;
     }
 }
 
 @media screen and (max-width: 425px) {
-    .page-tittle__image-text {
+    .page-title__image-text {
         padding-left: 16px;
     }
 }
