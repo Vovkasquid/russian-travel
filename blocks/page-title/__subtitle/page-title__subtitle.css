@@ -18,6 +18,8 @@
 @media screen and (max-width: 768px) {
     .page-title__subtitle {
         padding: 32px 64px 56px 64px;
+        font-size: 3.91vw;
+        line-height: 4.68vw;
     }
 }
 

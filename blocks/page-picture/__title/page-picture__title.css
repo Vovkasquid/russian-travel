@@ -9,6 +9,13 @@
     text-align: center;
 }
 
+@media screen and (max-width: 768px) {
+    .page-picture__title {
+        font-size: 9.38vw;
+        line-height: 9.90vw;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .page-picture__title {
         font-size: 32px;

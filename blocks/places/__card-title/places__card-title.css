@@ -9,8 +9,8 @@
 
 @media screen and (max-width: 768px) {
     .places__card-title {
-        font-size: 42px;
-        line-height: 46px;
+        font-size: 5.47vw;
+        line-height: 5.99vw;
     }
 }
 

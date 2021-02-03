@@ -6,6 +6,13 @@
     line-height: 58px;
 }
 
+@media screen and (max-width: 768px) {
+    .page-subtitle__title {
+        font-size: 7.03vw;
+        line-height: 7.55vw;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .page-subtitle__title {
         font-size: 32px;

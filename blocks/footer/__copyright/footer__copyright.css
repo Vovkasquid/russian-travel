@@ -7,9 +7,18 @@
     color: #fff;
 }
 
+@media screen and (max-width: 768px) {
+    .footer__copyright {
+        font-size: 1.82vw;
+        line-height: 2.08vw;
+        padding-left: 5px;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .footer__copyright {
         text-align: left;
+        font-size: 14px;
         line-height: 14px;
     }
 }
