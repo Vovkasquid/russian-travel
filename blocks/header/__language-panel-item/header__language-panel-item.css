@@ -1,12 +1,8 @@
 .header__language-panel-item {
-    color: #fff;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 1.2;
-    text-decoration: none;
     margin: 0 18px 0 0;
     text-align: center;
     transition: opacity 0.3s linear;
+    padding: 0;
 }
 
 .header__language-panel-item:last-child {
@@ -19,8 +15,6 @@
 
 @media screen and (max-width: 425px) {
     .header__language-panel-item {
-        font-size: 18px;
-        line-height: 20px;
         margin-top: 13px;
     }
 }
