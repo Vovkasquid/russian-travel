@@ -1,24 +1,6 @@
 .photo-galery__item {
     margin:0;
     width: 100%;
-    height: 213px;
+    height: 100%;
     object-fit: cover;
-}
-
-@media screen and (max-width: 1024px) {
-    .photo-galery__item {
-        height: 225px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .photo-galery__item {
-        height: 264px;
-    }
-}
-
-@media screen and (max-width: 425px) {
-    .photo-galery__item {
-        height: 216px;
-    }
 }
