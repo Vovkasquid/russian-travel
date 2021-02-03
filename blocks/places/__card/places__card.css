@@ -2,7 +2,7 @@
     margin: 0;
     display: grid;
     padding-bottom: 80px;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr minmax(220px,1fr);
     gap: 48px 40px;
 }
 
@@ -22,7 +22,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 502px) {
     .places__card {
         grid-template-columns: 1fr;
         gap: 32px;
