@@ -4,23 +4,23 @@
     font-size: 24px;
     line-height: 1.2;
     text-decoration: none;
-    margin: 0;
+    margin: 0 18px 0 0;
     text-align: center;
     transition: opacity 0.3s linear;
 }
 
 .header__language-panel-item:last-child {
-    padding-left: 18px;
+    margin-right: 0;
+}
+
+.header__language-panel-item:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 425px) {
     .header__language-panel-item {
         font-size: 18px;
         line-height: 20px;
-        padding-top: 14px;
+        margin-top: 13px;
     }
-}
-
-.header__language-panel-item:hover {
-    opacity: 0.8;
 }
